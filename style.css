@@ -1,0 +1,79 @@
+/** All Pages **/
+
+body {
+  background-color: black;
+}
+
+footer {
+  text-align: center;
+  left: 0;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  margin-bottom: 0px;
+}
+
+
+/** Home **/
+
+/* Jumbo */
+.jumbotron {
+  justify-content: center;
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: auto;
+  background-color: grey;
+  border-color: black;
+  border: black;
+  border-style: solid;
+  border-radius: 7px;
+}
+
+img.img-fluid {
+  float: left;
+  margin-right: 15px;
+}
+
+/** Portfolio **/
+
+/* Cards */
+.card-project {
+  display: inline-flex;
+  margin: auto;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: auto;
+}
+
+#card1 {
+  margin: 15px;
+}
+
+#card2 {
+  margin: 15px;
+}
+
+#card3 {
+  margin: 15px;
+}
+
+
+/** Contact **/
+/* #contact {
+  clear: both;
+  margin: 25px;
+  margin-left: 275px;
+  margin-right: 275px;
+  margin-bottom: 25px;
+  padding: auto;
+  font: bold;
+  text-align: center;
+  border: black;
+  border-color: black;
+  border-style: solid;
+  border-radius: 7px;
+  background-color: grey;
+} */
